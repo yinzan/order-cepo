@@ -1,0 +1,20 @@
+env: test2
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://yinzan:19970807@localhost:8761/eureka/
+spring:
+    application:
+      name: order
+    datasource:
+      username: root
+      password: 19970807
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/SpringCloud_sell?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+    jpa:
+      show-sql: true
+girl:
+  name: MM
+  age: 18

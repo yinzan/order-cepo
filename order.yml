@@ -16,5 +16,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: MM
+  name: YINZAN
   age: 23

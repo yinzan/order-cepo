@@ -17,4 +17,4 @@ spring:
       show-sql: true
 girl:
   name: MM
-  age: 18
+  age: 23

@@ -1,4 +1,4 @@
-env: test3
+env: test5
 eureka:
   instance:
     prefer-ip-address: true
@@ -16,5 +16,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: YINZAN
-  age: 25
+  name: plv
+  age: 12

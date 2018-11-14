@@ -1,10 +1,4 @@
 env: test5
-eureka:
-  instance:
-    prefer-ip-address: true
-  client:
-    service-url:
-      defaultZone: http://yinzan:19970807@localhost:8761/eureka/
 spring:
     application:
       name: order

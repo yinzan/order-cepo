@@ -10,5 +10,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: GGGGGGG1
+  name: I LOVE CHANANA
   age: 12

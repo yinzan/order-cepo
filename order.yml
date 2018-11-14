@@ -10,5 +10,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: GGGGGGG
+  name: GGGGGGG1
   age: 12

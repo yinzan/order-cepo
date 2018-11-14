@@ -16,5 +16,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: jj123
+  name: jj阿斯达
   age: 12

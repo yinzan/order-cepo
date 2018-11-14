@@ -16,5 +16,5 @@ spring:
     jpa:
       show-sql: true
 girl:
-  name: jj阿斯达
+  name: jjdadada
   age: 12
